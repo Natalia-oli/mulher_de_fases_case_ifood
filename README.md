@@ -1,6 +1,6 @@
 ## Storytelling case do IFOOD
 
-O **IFOOD** desafiou a turma VamoAI a falar de si através dos seus dados existêntes na rede. Nessa aventura embarquei e decidi considerar no meu case os meus dados do Instagram, Netflix e Facebook e então saiu o: 
+O **IFOOD** desafiou a turma VamoAI a falar de si através dos seus dados existêntes na rede. Nessa aventura embarquei e decidi considerar no meu case os meus dados do *_Instagram, Netflix e Facebook_* e então saiu o: 
 
 
 
