@@ -1,3 +1,12 @@
-### Mulher de Fases - Storytelling case
+## Storytelling case do IFOOD
 
-O ifood desafiou a turma VamoAI a falar de si através dos nossos dados de existêntes na rede. Nessa aventura embarquei e decidi considerar no meu case os meus dados do Instagram, Netflix e Facebook, 
+O **IFOOD** desafiou a turma VamoAI a falar de si através dos seus dados existêntes na rede. Nessa aventura embarquei e decidi considerar no meu case os meus dados do Instagram, Netflix e Facebook e então saiu o: 
+
+
+
+
+
+:waning_crescent_moon:  *_Mulher de fases, não a do Raimundos, mas sim a das redes_*    :last_quarter_moon:
+
+
+:crescent_moon:	[Acesse o dashboard:]() 
